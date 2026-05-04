@@ -1,0 +1,4 @@
+project: proxygen
+target: proxygen-http1x-fuzzer
+cmds:
+  - cmd: /proxygen-http1x-fuzzer
